@@ -25,6 +25,8 @@ Mi formación académica me ha proporcionado una comprensión profunda de los pr
 ## 🎓 Educación
 ### ** Servicio Nacional de Aprendizaje (SENA) ** _(2023 - 2025)_
 - Tecnologo en Gestion de Mercados
+- **Institucion Educativa Magestuoso Ariari (INEMA) ** _(2021)_
+- bachiller
 
 ## 💡 Habilidades
 - **Adaptavilidad**
