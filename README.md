@@ -20,7 +20,7 @@
 
 ## 🎓 Educación
 ### ** Servicio Nacional de Aprendizaje (SENA) ** _(2023 - 2025)_
-- Título obtenido.
+- Tecnologo en Gestion de Mercados
 
 ## 💡 Habilidades
 - **Adaptavilidad**
