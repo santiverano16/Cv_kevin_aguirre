@@ -1,7 +1,7 @@
 # CV_Example
 # Hoja de Vida
 
-## Kevin Santiago Aguirre Verano 
+## Kevin  Aguirre
 **Profesión:** Tecnologo En Gestion De Mercados 
 Soy un Tecnólogo en Gestión de Mercados con una sólida experiencia en el desarrollo e implementación de estrategias de ventas efectivas. Mi enfoque principal se centra en el análisis de mercado, la investigación de consumidores y la aplicación de técnicas de ventas para alcanzar y superar los objetivos comerciales.
 
