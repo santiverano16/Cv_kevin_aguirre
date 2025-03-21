@@ -9,7 +9,7 @@
 ## 📞 Contacto
 
 - **Email:** [santiverano16@gmail.com](mailto:santiverano16@gmail.com)
-- **LinkedIn:** [www.linkedin.com/in/kevin-santiago-aguirre-verano-3031a2211]
+- **LinkedIn:** www.linkedin.com/in/kevin-santiago-aguirre-verano-3031a2211
 
 ## 🏢 Experiencia Laboral
 ### **Pentagrama** _(2025 - Actualidad)_
